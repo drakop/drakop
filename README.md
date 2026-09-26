@@ -1,4 +1,4 @@
-## Hi there 👋
+#  Welcome
 
 <!--
 **drakop/drakop** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+##  PhD students
+
+##  MSc students
+**2026**
+*  Panagiotos Kokkinos
+**2025**
+*  Konstantinos Tsouvalis \[[dblp](https://dblp.org/pid/441/6434.html)\].

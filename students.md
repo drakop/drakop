@@ -9,7 +9,7 @@
 *  Panagiotis Kokkinos.
 
 **2026**
-*  Konstantinos Theodoropoulos.
+*  Konstantinos Theodoropoulos \[[dblp](https://dblp.org/pid/425/7467.html)\].
 
 ##  MSc students
 **2026**

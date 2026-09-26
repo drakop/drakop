@@ -1,5 +1,9 @@
 #  List of graduate and doctoral students
 
+##  Research
+*  [dblp](https://dblp.org/pid/155/8095.html)
+*  [Google scholar](https://scholar.google.com/citations?user=QJOAYikAAAAJ&hl=en)
+
 ##  PhD students
 
 ##  MSc students

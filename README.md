@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 ##  MSc students
 **2026**
-*  Panagiotos Kokkinos
+*  Panagiotis Kokkinos
 
 **2025**
 *  Konstantinos Tsouvalis \[[dblp](https://dblp.org/pid/441/6434.html)\].

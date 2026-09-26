@@ -5,6 +5,11 @@
 *  [Google scholar](https://scholar.google.com/citations?user=QJOAYikAAAAJ&hl=en)
 
 ##  PhD students
+**2027**
+*  Panagiotis Kokkinos.
+
+**2026**
+*  Konstantinos Theodoropoulos.
 
 ##  MSc students
 **2026**

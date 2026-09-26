@@ -26,5 +26,5 @@ Here are some ideas to get you started:
 
 **2022**
 *  Vasilina Geramoutsou.
-*  Dimitris kati.
+*  Dimitris Meimetis.
 *  Fotis Sofoulis \[[dblp](https://dblp.org/pid/429/7744.html)\].

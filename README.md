@@ -15,3 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+*  [dblp](https://dblp.org/pid/155/8095.html)
+*  [Google scholar](https://scholar.google.com/citations?user=QJOAYikAAAAJ&hl=en)
+

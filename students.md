@@ -7,6 +7,7 @@ The name lists are in alphabetical order based on the English transliteration of
 *  [Google scholar](https://scholar.google.com/citations?user=QJOAYikAAAAJ&hl=en)
 
 ##  Workshops
+*  CIKM 2022 Companion volume editor \[[dblp](https://dblp.org/db/conf/cikm/cikm2022w.html)\].
 *  THECOG: International conference on 
     *  2022 cfp \[[dblp](https://dblp.org/db/conf/cikm/cikm2022w.html)\].
     *  2021 cfp \[[dblp](https://dblp.org/db/conf/cikm/cikm2021w.html)\].

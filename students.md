@@ -6,7 +6,7 @@
 
 ##  Workshops
 *  [THECOG]() 2021, 2022
-*  [MHDW]() 2018
+*  [MHDW]() 2017, 2018
 
 ##  Special issues
 *  TBA 2026.
@@ -20,12 +20,14 @@
 
 ##  MSc students
 **2026**
-*  Panagiotis Kokkinos.
+*  Ms. Rineta Kyroglou.
+*  Ms. Katerina Manoli.
+*  Mr. Panagiotis Kokkinos.
 
 **2025**
-*  Konstantinos Tsouvalis \[[dblp](https://dblp.org/pid/441/6434.html)\].
+*  Mr. Konstantinos Tsouvalis \[[dblp](https://dblp.org/pid/441/6434.html)\].
 
 **2022**
-*  Vasilina Geramoutsou.
-*  Dimitris Meimetis.
-*  Fotis Sofoulis \[[dblp](https://dblp.org/pid/429/7744.html)\].
+*  Ms. Vasilina Geramoutsou.
+*  Mr. Dimitris Meimetis.
+*  Mr. Fotis Sofoulis \[[dblp](https://dblp.org/pid/429/7744.html)\].

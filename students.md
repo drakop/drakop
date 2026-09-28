@@ -9,6 +9,7 @@ The name lists are in alphabetical order based on the English transliteration of
 ##  Workshops
 *  [THECOG]() 2021, 2022
 *  [MHDW]() 2017, 2018
+*  _Mindspace_ NPO entrepreneurship workshop 2017.
 
 ##  Special issues
 *  TBA 2026.

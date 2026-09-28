@@ -8,8 +8,8 @@ The name lists are in alphabetical order based on the English transliteration of
 
 ##  Workshops
 *  THECOG: International conference on 
-    *  2022 \[cfp\] [dblp]((https://dblp.org/db/conf/cikm/cikm2022w.html).
-    *  2021 \[cfp\] \[dblp\].
+    *  2022 cfp [dblp](https://dblp.org/db/conf/cikm/cikm2022w.html).
+    *  2021 cfp dblp.
 *  [MHDW]() 2017, 2018
 *  _Mindspace_ NPO entrepreneurship workshop 2017.
 

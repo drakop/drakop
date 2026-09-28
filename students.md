@@ -1,5 +1,7 @@
 #  Research overview
 
+The name lists are in alphabetical order based on the English transliteration of the surname.
+
 ##  Publications
 *  [dblp](https://dblp.org/pid/155/8095.html)
 *  [Google scholar](https://scholar.google.com/citations?user=QJOAYikAAAAJ&hl=en)
@@ -20,14 +22,14 @@
 
 ##  MSc students
 **2026**
-*  Ms. Rineta Kyroglou.
-*  Ms. Katerina Manoli.
-*  Mr. Panagiotis Kokkinos.
+*  Panagiotis Kokkinos.
+*  Rineta Kyroglou.
+*  Katerina Manoli.
 
 **2025**
-*  Mr. Konstantinos Tsouvalis \[[dblp](https://dblp.org/pid/441/6434.html)\].
+*  Konstantinos Tsouvalis \[[dblp](https://dblp.org/pid/441/6434.html)\].
 
 **2022**
-*  Ms. Vasilina Geramoutsou.
-*  Mr. Dimitris Meimetis.
-*  Mr. Fotis Sofoulis \[[dblp](https://dblp.org/pid/429/7744.html)\].
+*  Vasilina Geramoutsou.
+*  Dimitris Meimetis.
+*  Fotis Sofoulis \[[dblp](https://dblp.org/pid/429/7744.html)\].

@@ -33,7 +33,7 @@ The name lists are in alphabetical order based on the English transliteration of
 *  Katerina Manoli.
 
 **2025**
-*  Konstantinos Tsouvalis \[[dblp](https://dblp.org/pid/441/6434.html)\].
+*  Konstantinos Tsouvalis \[[dblp](https://dblp.org/pid/441/6434.html)\] \[[thesis](https://polynoe.lib.uniwa.gr/xmlui/handle/11400/11289)\].
 
 **2022**
 *  Vasilina Geramoutsou.

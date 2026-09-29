@@ -37,5 +37,5 @@ The name lists are in alphabetical order based on the English transliteration of
 
 **2022**
 *  Vasilina Geramoutsou \[[thesis](https://nemertes.library.upatras.gr/items/98945ba6-6d32-4eec-8e50-5064bbce110b)\].
-*  Dimitris Meimetis.
+*  Dimitris Meimetis \[[thesis](https://nemertes.library.upatras.gr/items/ec3a6ae7-15d7-4aa5-9bca-5c3e4bf94273)\].
 *  Fotis Sofoulis \[[dblp](https://dblp.org/pid/429/7744.html)\] \[[thesis](https://nemertes.library.upatras.gr/items/a1be171e-93e8-4fff-bf7e-df08171d88ae)\].

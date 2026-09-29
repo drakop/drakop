@@ -38,4 +38,4 @@ The name lists are in alphabetical order based on the English transliteration of
 **2022**
 *  Vasilina Geramoutsou.
 *  Dimitris Meimetis.
-*  Fotis Sofoulis \[[dblp](https://dblp.org/pid/429/7744.html)\].
+*  Fotis Sofoulis \[[dblp](https://dblp.org/pid/429/7744.html)\] \[[thesis](https://nemertes.library.upatras.gr/items/a1be171e-93e8-4fff-bf7e-df08171d88ae)\].

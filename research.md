@@ -36,6 +36,6 @@ The name lists are in alphabetical order based on the English transliteration of
 *  Konstantinos Tsouvalis \[[dblp](https://dblp.org/pid/441/6434.html)\] \[[thesis](https://polynoe.lib.uniwa.gr/xmlui/handle/11400/11289)\].
 
 **2022**
-*  Vasilina Geramoutsou.
+*  Vasilina Geramoutsou \[[thesis](https://nemertes.library.upatras.gr/items/98945ba6-6d32-4eec-8e50-5064bbce110b)\].
 *  Dimitris Meimetis.
 *  Fotis Sofoulis \[[dblp](https://dblp.org/pid/429/7744.html)\] \[[thesis](https://nemertes.library.upatras.gr/items/a1be171e-93e8-4fff-bf7e-df08171d88ae)\].

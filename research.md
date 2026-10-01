@@ -13,9 +13,9 @@ The name lists are in alphabetical order based on the English transliteration of
 *  **THECOG:** International Workshop on Transforms in Behavioral and Affective Computing.
     *  2022 collocated with CIKM. Co-chair \[cfp\]\[[dblp](https://dblp.org/db/conf/cikm/cikm2022w.html)\]\[[ceur](https://ceur-ws.org/Vol-3318/)\].
     *  2021 collocated with CIKM. Co-founder and co-chair \[cfp\]\[[dblp](https://dblp.org/db/conf/cikm/cikm2021w.html)\]\[[ceur](https://ceur-ws.org/Vol-3052/)\].
-*  **MHDW:** Mining Humanistic Data Workshop. Co-chair.
-    *  2018 cfp.
-    *  2017 cfp.
+*  **MHDW:** Mining Humanistic Data Workshop.
+    *  2018 collocated with AIAI. Co-chair.
+    *  2017 collocated with AIAI. Co-chair.
 *  _Mindspace_ NPO entrepreneurship workshop 2017.
 
 ##  Special issues

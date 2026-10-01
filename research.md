@@ -10,6 +10,7 @@ The name lists are in alphabetical order based on the English transliteration of
 *  **CIKM 2022:** Companion volume editor \[[dblp](https://dblp.org/db/conf/cikm/cikm2022w.html)\]\[[ceur](https://ceur-ws.org/Vol-3318/)\].
 *  **AdHD:** Workshop on Advances in High Dimensional Data.
     *  2026 collocated with IEEE Big Data. Committee member \[[cfp](https://sites.google.com/view/adhdbigdata2026/home?pli=1&authuser=0)\].
+    *  2025 collocated with IEEE Big Data. Committee member.
 *  **THECOG:** International Workshop on Transforms in Behavioral and Affective Computing.
     *  2022 collocated with CIKM. Co-chair \[cfp\]\[[dblp](https://dblp.org/db/conf/cikm/cikm2022w.html)\]\[[ceur](https://ceur-ws.org/Vol-3318/)\].
     *  2021 collocated with CIKM. Co-founder and co-chair \[cfp\]\[[dblp](https://dblp.org/db/conf/cikm/cikm2021w.html)\]\[[ceur](https://ceur-ws.org/Vol-3052/)\].

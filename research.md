@@ -24,14 +24,14 @@ The name lists are in alphabetical order based on the English transliteration of
 
 ##  PhD students
 **2027**
-*  Panagiotis Kokkinos.
+*  Panagiotis Kokkinos \[[github](https://github.com/panoskokki1)\].
 
 **2026**
 *  Konstantinos Theodoropoulos \[[dblp](https://dblp.org/pid/425/7467.html)\].
 
 ##  MSc students
 **2026**
-*  Panagiotis Kokkinos.
+*  Panagiotis Kokkinos \[[github](https://github.com/panoskokki1)\].
 *  Rineta Kyroglou.
 *  Katerina Manoli.
 

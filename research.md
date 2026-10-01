@@ -7,13 +7,13 @@ The name lists are in alphabetical order based on the English transliteration of
 *  [Google scholar](https://scholar.google.com/citations?user=QJOAYikAAAAJ&hl=en)
 
 ##  Workshops
-*  CIKM 2022 Companion volume editor \[[dblp](https://dblp.org/db/conf/cikm/cikm2022w.html)\]\[[ceur](https://ceur-ws.org/Vol-3318/)\].
-*  THECOG: International conference on 
-    *  2022 cfp \[[dblp](https://dblp.org/db/conf/cikm/cikm2022w.html)\].
-    *  2021 cfp \[[dblp](https://dblp.org/db/conf/cikm/cikm2021w.html)\].
-*  MHDW
-    *  2018
-    *  2017
+*  **CIKM 2022:** Companion volume editor \[[dblp](https://dblp.org/db/conf/cikm/cikm2022w.html)\]\[[ceur](https://ceur-ws.org/Vol-3318/)\].
+*  **THECOG:** International Workshop on Transforms in Behavioral and Affective Computing. Co-founder.
+    *  2022 cfp \[[dblp](https://dblp.org/db/conf/cikm/cikm2022w.html)\]\[[ceur](https://ceur-ws.org/Vol-3318/)\].
+    *  2021 cfp \[[dblp](https://dblp.org/db/conf/cikm/cikm2021w.html)\]\[[ceur](https://ceur-ws.org/Vol-3052/)\].
+*  **MHDW:** Mining Humanistic Data Workshop. Co-chair.
+    *  2018.
+    *  2017.
 *  _Mindspace_ NPO entrepreneurship workshop 2017.
 
 ##  Special issues

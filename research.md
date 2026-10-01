@@ -9,10 +9,10 @@ The name lists are in alphabetical order based on the English transliteration of
 ##  Workshops
 *  **CIKM 2022:** Companion volume editor \[[dblp](https://dblp.org/db/conf/cikm/cikm2022w.html)\]\[[ceur](https://ceur-ws.org/Vol-3318/)\].
 *  **ADHD:** Workshop.
-    *  2026 collocated with IEEE Big Data. Committee member. \[[cfp](https://sites.google.com/view/adhdbigdata2026/home?pli=1&authuser=0)\].
+    *  2026 collocated with IEEE Big Data. Committee member \[[cfp](https://sites.google.com/view/adhdbigdata2026/home?pli=1&authuser=0)\].
 *  **THECOG:** International Workshop on Transforms in Behavioral and Affective Computing. Co-founder.
-    *  2022 collocated with CIKM. Co-chair. \[cfp\]\[[dblp](https://dblp.org/db/conf/cikm/cikm2022w.html)\]\[[ceur](https://ceur-ws.org/Vol-3318/)\].
-    *  2021 collocated with CIKM. Co-founder and co-chair. \[cfp\]\[[dblp](https://dblp.org/db/conf/cikm/cikm2021w.html)\]\[[ceur](https://ceur-ws.org/Vol-3052/)\].
+    *  2022 collocated with CIKM. Co-chair \[cfp\]\[[dblp](https://dblp.org/db/conf/cikm/cikm2022w.html)\]\[[ceur](https://ceur-ws.org/Vol-3318/)\].
+    *  2021 collocated with CIKM. Co-founder and co-chair \[cfp\]\[[dblp](https://dblp.org/db/conf/cikm/cikm2021w.html)\]\[[ceur](https://ceur-ws.org/Vol-3052/)\].
 *  **MHDW:** Mining Humanistic Data Workshop. Co-chair.
     *  2018 cfp.
     *  2017 cfp.
